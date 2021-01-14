@@ -1,0 +1,28 @@
+
+
+/* Text and Body Styling*/
+
+
+body{
+    font-family: Arial;
+    background-color:grey;
+}
+
+.h2 .p .a {
+text-align:center;
+}
+
+/* this is section box styling*/
+
+.boxes{
+    
+    margin: auto;
+    padding: auto;
+   border-style: solid; color: blue;
+   border-radius: 20px;
+   width: 30em;
+display: block;
+
+}
+
+
